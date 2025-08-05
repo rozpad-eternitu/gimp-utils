@@ -1,5 +1,4 @@
-This is a repo for my personal GIMP-related stuff, mostly scripts.
-You may find it useful or not. :)
+Fork for the sole purpose of updating adsr-split-toning.scm script to work with GIMP 3.0
 
 Scripts:
 
